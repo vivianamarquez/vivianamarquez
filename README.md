@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️🌴
+
+www.VivianaMarquez.com
