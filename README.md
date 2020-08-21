@@ -19,7 +19,7 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 
 - 💁‍♀️ Currently, Data Scientist at HBO Latin America
 - 🎓 MSc in Data Science | BSc in Mathematics | AA in Journalism
-- 🤓 I like NLP, combinatorics, and [science communication](http://youtube.com/vivmarquez)
+- 🤓 I like NLP, Combinatorics, and [Science Communication](http://youtube.com/vivmarquez)
 - 📫 How to reach me: www.VivianaMarquez.com
 
 
