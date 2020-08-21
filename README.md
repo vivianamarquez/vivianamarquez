@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! ¡Hola! Oi! привет! 👋
 
 <!--
 **vivianamarquez/vivianamarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️🌴
 
-www.VivianaMarquez.com
+- 💁‍♀️ Currently, Data Scientist at HBO Latin America
+- 🎓 MSc in Data Science | BSc in Mathematics | AA in Journalism
+- 🤓 I like NLP, combinatorics, and science communication
+- 📫 How to reach me: www.VivianaMarquez.com
+
+
