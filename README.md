@@ -24,6 +24,7 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 - 🤓 I like NLP, Combinatorics, and [Science Communication](http://youtube.com/vivmarquez)
 - ✨ I am passionate about implementing NLP models beyond English
 
+<hr>
 
 ### 🔎 Find me at www.VivianaMarquez.com
 
