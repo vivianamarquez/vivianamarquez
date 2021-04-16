@@ -28,3 +28,4 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 
 <img alt="LinkedIn" src="https://img.shields.io/badge/vivianamarquez%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 <img alt="Twitter" src="https://img.shields.io/badge/vivmarquez%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img alt="Medium" src="https://img.shields.io/badge/vivianamarquez%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
