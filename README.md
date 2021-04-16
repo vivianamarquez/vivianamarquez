@@ -33,7 +33,7 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 <code><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
 <code><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/></code>
 <code><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%231c4481.svg?&style=for-the-badge&logo=tableau&logoColor=white"/></code>
-<code><img alt="Plotly" src="https://img.shields.io/badge/SQL%20-%2300f.svg?&style=for-the-badge&logo=dash&logoColor=white"/></code>
+<code><img alt="Plotly" src="https://img.shields.io/badge/Plotly%20-%23119DFF.svg?&style=for-the-badge&logo=plotly&logoColor=white"/></code>
 
 
 <hr>
