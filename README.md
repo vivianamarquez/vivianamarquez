@@ -28,6 +28,16 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 
 ### 🔎 Find me at: www.VivianaMarquez.com
 
+<code><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
+<code><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></code>
+<code><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
+<code><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%23FF9900.svg?&style=for-the-badge&logo=tableau&logoColor=white"/></code>
+
+
+<hr>
+
+### 🔎 Find me at: www.VivianaMarquez.com
+
 <code><a href="https://twitter.com/vivmarquez" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a></code>
 <code><a href="https://www.youtube.com/user/vivmarquez" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/YouTube%20-%23c4302b.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></code>
 <code><a href="https://linkedin.com/in/vivianamarquez" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a></code>
