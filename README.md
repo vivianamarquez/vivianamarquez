@@ -1,4 +1,6 @@
-### Hi! ¡Hola! Oi! привет! 👋
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4)
+
+## Hi! ¡Hola! Oi! Bonjour! привет! 👋
 
 <!--
 **vivianamarquez/vivianamarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
