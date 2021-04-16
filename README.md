@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) [![GitHub followers](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)](https://github.com/vivianamarquez?tab=followers)
 
 ## Hi! ¡Hola! Oi! Bonjour! привет! 👋
 
