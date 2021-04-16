@@ -48,5 +48,5 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 <code><a href="https://vivianamarquez.medium.com/" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/></a></code>
 <code><a href="https://www.instagram.com/vivianamarquez" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23bc2a8d.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></code>
 
-[Here](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view) is my CV.
+#### Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
 
