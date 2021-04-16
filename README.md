@@ -26,12 +26,13 @@ My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️�
 
 <hr>
 
-### 🔎 Find me at: www.VivianaMarquez.com
+### 👩‍💻 Some of the tools I frequently use:
 
 <code><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></code>
 <code><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/></code>
 <code><img alt="AWS" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/></code>
 <code><img alt="Tableau" src="https://img.shields.io/badge/Tableau%20-%231c4481.svg?&style=for-the-badge&logo=tableau&logoColor=white"/></code>
+<code><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%231c4481.svg?&style=for-the-badge&logo=sql&logoColor=white"/></code>
 
 
 <hr>
