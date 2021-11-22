@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Viviana Márquez. I am a data scientist living in Miami, FL ☀️🌴
+My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 
-- 💁‍♀️ Currently, Data Scientist at HBO Latin America
+- 💁‍♀️ This year I created my own company in data science consulting
 - 🎓 MSc in Data Science | BSc in Mathematics | AA in Journalism
 - 🤓 I like NLP, Combinatorics, and Science Communication
 - ✨ I am passionate about implementing NLP models beyond English
