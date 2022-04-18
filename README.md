@@ -56,7 +56,6 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 | **Category** | **Technologies** |
 | - | - |
 **Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF'>
-      <img src='https://img.shields.io/static/v1?label=&message=R&logo=R'>
 
   </p>
 </details>
