@@ -2,6 +2,8 @@
 
 <p align="center">
   <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  </p>
+  <p align="center">
 <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
   <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
     <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivianamarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
@@ -54,6 +56,7 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 | **Category** | **Technologies** |
 | - | - |
 **Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF'>
+      <img src='https://img.shields.io/static/v1?label=&message=R&logo=R'>
 
   </p>
 </details>
