@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="400" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/portafolio/Photo%20Jun%2012,%2019%2046%2006.jpg" alt="Viviana Márquez" />
       
 <blockquote>
 
