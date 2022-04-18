@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://github.com/vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+  <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivianamarquez-3a3a3a?style=flat&logo=YouTube&logoColor=white" /></a>
   <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff5757?style=flat&logo=ApacheSpark&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
 </p>
