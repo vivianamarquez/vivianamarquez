@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
 
 <h1 align="center">👋 Hi! ¡Hola! Oi! Salut! привет!</h1>
 
@@ -9,7 +8,7 @@
     <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivianamarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
   <a href="https://instagram.com/vivianamarquez"><img src="https://img.shields.io/badge/-@vivianamarquez-7232bd?style=flat&logo=Instagram&logoColor=white" /></a>
   <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
 </p>
 
 <!--
