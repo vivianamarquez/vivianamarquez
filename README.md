@@ -24,16 +24,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="400" src="https://github.com/Lissy93/Lissy93/raw/master/assets/alicia-sykes_profile-pic.png" alt="Alicia Sykes" />
+      
+<blockquote>
+
 My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 
 - 🎓 MSc in Data Science | BSc in Mathematics | AA in Journalism
-- 🤓 I like NLP, Combinatorics, and Science Communication
-- ✨ I am passionate about implementing NLP models beyond English
-
-
+- 🤓 I like NLP, Combinatorics, and Science Communication.
+- ✨ I am passionate about languages and teaching.
+  
 #### Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
 
-
+</blockquote>
+    
+----
+  
+  </p>
+</details>
 
 <!-- Tech Stack -->  
 <details>
