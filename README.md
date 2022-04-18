@@ -42,9 +42,7 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 #### Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
 
 </blockquote>
-    
-----
-  
+
   </p>
 </details>
 
