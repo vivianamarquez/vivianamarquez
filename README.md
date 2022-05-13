@@ -55,9 +55,14 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 
 | **Category** | **Technologies** |
 | - | - |
-**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF'>
-
+**Programming Languages** | <img src='https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF'><img src='https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white'><img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
+**Cloud Computing** | <img src='https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white'><img src='https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white'><img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white'>
+**Frameworks** | <img src='https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white'><img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'><img src='https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white'><img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white'>
+**Visualization Tools** | <img src='https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white'><img src='https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white'>
+**Miscellaneous** | <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'><img src='https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white'><img src='https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white'>
   </p>
 </details>
 
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={vivianamarquez}
