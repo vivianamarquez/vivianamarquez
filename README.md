@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi! ¡Hola! Oi! Salut! привет!</h1>
+<h1 align="center">👋 Hi! ¡Hola! Oi! Salut! привіт!</h1>
 
 <p align="center">
   <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
