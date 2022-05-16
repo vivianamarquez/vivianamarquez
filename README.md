@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/portafolio/Photo%20Jun%2012,%2019%2046%2006.jpg" alt="Viviana Márquez" />
+      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/viviana_marquez_nyc_headshot.jpg" alt="Viviana Márquez" />
       
 <blockquote>
 
