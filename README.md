@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<center>
+<p align="center">
   <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  </center>
+  </p>
 
 <!-- About Section -->
 <details>
@@ -63,7 +63,7 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
   <summary><b>💬 Let's get in touch!</b></summary>
   
   <p align="center">
-    Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
+    Here is my <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>CV</a></b>
   </p>
   <p align="center">
 <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
