@@ -1,17 +1,5 @@
 <h1 align="center">👋 Hi! ¡Hola! Oi! Salut! привіт!</h1>
 
-<p align="center">
-  <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
-  </p>
-  <p align="center">
-<a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
-<br>    <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivianamarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
-  <a href="https://instagram.com/vivianamarquez"><img src="https://img.shields.io/badge/-@vivianamarquez-7232bd?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@misspyth0n/"><img src="https://img.shields.io/badge/-@misspyth0n-ff0050?style=flat&logo=TikTok&logoColor=white" /></a>
-  <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-</p>
-
 <!--
 **vivianamarquez/vivianamarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,11 +31,31 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 - ✨ I am passionate about languages and teaching
 - 👑 Miss Universe Sucre 2021 (Colombia)
   
-#### Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
+
 
 </blockquote>
 
   </p>
+</details>
+
+<!-- Contact -->
+<details>
+  <summary><b>💬 Let's get in touch!</b></summary>
+    
+  #### Here is my [CV](https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view).
+  
+  <p align="center">
+  <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a>
+  </p>
+  <p align="center">
+<a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
+<br>    <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivianamarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
+  <a href="https://instagram.com/vivianamarquez"><img src="https://img.shields.io/badge/-@vivianamarquez-7232bd?style=flat&logo=Instagram&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@misspyth0n/"><img src="https://img.shields.io/badge/-@misspyth0n-ff0050?style=flat&logo=TikTok&logoColor=white" /></a>
+  <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+</p>
+  
 </details>
 
 <!-- Tech Stack -->  
