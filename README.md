@@ -63,7 +63,7 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
   <summary><b>💬 Let's get in touch!</b></summary>
   
   <p align="center">
-    Here is my <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>CV</a></b>
+    Check out my <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>CV</a></b>
   </p>
   <p align="center">
 <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
