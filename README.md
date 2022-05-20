@@ -74,4 +74,4 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
 </details>
 
 
-![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow) <img src='https://img.shields.io/twitter/follow/vivmarquez?style=social'>
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
