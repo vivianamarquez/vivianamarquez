@@ -67,7 +67,7 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
   <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
 <br>    <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivmarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
   <a href="https://instagram.com/vivianamarquez"><img src="https://img.shields.io/badge/-@vivianamarquez-7232bd?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@misspyth0n/"><img src="https://img.shields.io/badge/-@misspyth0n-ff0050?style=flat&logo=TikTok&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@miss.pandas/"><img src="https://img.shields.io/badge/-@miss.pandas-ff0050?style=flat&logo=TikTok&logoColor=white" /></a>
   <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
 </p>
   
