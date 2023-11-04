@@ -1,19 +1,31 @@
-# Hi! ¡Hola! Oi! Salut ! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi">
+**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana Márquez**
 
-<!--
-**vivianamarquez/vivianamarquez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Founder of Miss Factorial Academy | Data Scientist | Educator | Media Personality
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ About Me
+
+I'm a multifaceted professional with a fervor for data science, education, and empowerment. With over 10 years of coding experience, I've navigated through various sectors, leveraging data to drive innovation in advertising, marketing, retail, and cybersecurity. 
+
+As an educator, I've had the honor of guiding over 1,300 students across the globe in mastering AI and data skills. My passion for knowledge-sharing stems from a simple yet profound belief: understanding technology in the modern age is as essential as literacy in times gone by.
+
+Outside the tech realm, I've embraced the spotlight as Miss Sucre, making it to the top 13 at Miss Universe Colombia 2021, and I've connected with diverse audiences as a Radio and TV host in multiple countries.
+
+---
+
+### 🚀 Miss Factorial Academy - Bridging the Educational Divide
+
+At the heart of my endeavors lies Miss Factorial Academy — a platform founded on the principles of empowerment through education. We stand for making tech and data science knowledge accessible to all, regardless of gender, economic background, or cultural origins.
+
+🌟 **Our Mission:**
+- **To Empower:** Transforming complex tech concepts into accessible knowledge.
+- **To Educate:** Offering high-quality, comprehensive learning experiences in data and AI.
+- **To Bridge Gaps:** Pioneering change to overcome gender and socioeconomic disparities in STEM.
+- **To Nurture:** Fostering a nurturing environment for growth and confidence in tech.
+
+Miss Factorial Academy is more than an educational platform; it's a catalyst for change, a community where every question counts, and every student has the potential to become a tech leader.
+
 
 <!-- About Section -->
 <details>
