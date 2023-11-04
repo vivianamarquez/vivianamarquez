@@ -49,4 +49,4 @@ As the proud founder of Miss Factorial Academy, I am deeply passionate about tra
 </details>
 
 
-![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=ff69b4) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
