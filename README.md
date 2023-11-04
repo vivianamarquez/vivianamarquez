@@ -1,7 +1,4 @@
 **Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana Márquez**
-
-### Founder of Miss Factorial Academy | Data Scientist | Educator | Media Personality
-
 ---
 
 ### ✨ About Me
@@ -14,17 +11,12 @@ Outside the tech realm, I've embraced the spotlight as Miss Sucre, making it to 
 
 ---
 
-### 🚀 Miss Factorial Academy - Bridging the Educational Divide
+### 🚀 Miss Factorial Academy 
 
-At the heart of my endeavors lies Miss Factorial Academy — a platform founded on the principles of empowerment through education. We stand for making tech and data science knowledge accessible to all, regardless of gender, economic background, or cultural origins.
+As the proud founder of Miss Factorial Academy, I am deeply passionate about transforming AI and data education into a engaging journey. In a world where data fluency has become as indispensable as literacy, my goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, I steer Miss Factorial Academy towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
 
-🌟 **Our Mission:**
-- **To Empower:** Transforming complex tech concepts into accessible knowledge.
-- **To Educate:** Offering high-quality, comprehensive learning experiences in data and AI.
-- **To Bridge Gaps:** Pioneering change to overcome gender and socioeconomic disparities in STEM.
-- **To Nurture:** Fostering a nurturing environment for growth and confidence in tech.
 
-Miss Factorial Academy is more than an educational platform; it's a catalyst for change, a community where every question counts, and every student has the potential to become a tech leader.
+
 
 
 <!-- About Section -->
