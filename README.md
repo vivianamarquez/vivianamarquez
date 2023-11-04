@@ -14,33 +14,13 @@ Outside the tech realm, I've embraced the spotlight as Miss Sucre, making it to 
 
 ### 🚀 Miss Factorial Academy 
 
-As the proud founder of Miss Factorial Academy, I am deeply passionate about transforming AI and data education into a engaging journey. In a world where data fluency has become as indispensable as literacy, my goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, I steer Miss Factorial Academy towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
+As the proud founder of Miss Factorial Academy, I am deeply passionate about transforming AI and data education into an engaging journey. In a world where data fluency has become as indispensable as literacy, my goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, I steer Miss Factorial Academy towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
 
 
 
 
 
 <!-- About Section -->
-<details>
-  <summary><b>👤 About</b></summary>
-    <p>
-      <img align="right" width="200" src="https://raw.githubusercontent.com/vivianamarquez/vivianamarquez.github.io/master/img/viviana_marquez_nyc_headshot.jpg" alt="Viviana Márquez" />
-      
-<blockquote>
-
-My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
-
-- 🎓 MSc in Data Science | BSc in Mathematics | AA in Journalism
-- 🤓 I like NLP, Combinatorics, and Science Communication
-- ✨ I am passionate about languages and teaching
-- 👑 Miss Universe Sucre 2021 (Colombia)
-  
-
-
-</blockquote>
-
-  </p>
-</details>
 
 <!-- Tech Stack -->  
 <details>
@@ -66,16 +46,9 @@ My name is Viviana Márquez. I am a data scientist in New York, NY 🍎🗽
   <p align="center">
     Check out my <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>CV</a></b>
   </p>
-  <p align="center">
-    <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a><br>
-<a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
-<br>    <a href="https://youtube.com/user/vivmarquez"><img src="https://img.shields.io/badge/-vivmarquez-c4302b?style=flat&logo=YouTube&logoColor=white" /></a>
-  <a href="https://instagram.com/vivianamarquez"><img src="https://img.shields.io/badge/-@vivianamarquez-7232bd?style=flat&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@miss.pandas/"><img src="https://img.shields.io/badge/-@miss.pandas-ff0050?style=flat&logo=TikTok&logoColor=white" /></a>
-  <a href="https://twitter.com/vivmarquez"><img src="https://img.shields.io/badge/-@vivmarquez-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-</p>
-  
+    <a href="https://vivianamarquez.com"><img src="https://img.shields.io/badge/-vivianamarquez.com-ff69b4?style=flat&logo=ApacheSpark&logoColor=white" /></a> 
+    <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
 </details>
 
 
