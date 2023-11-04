@@ -16,7 +16,7 @@ Outside the tech realm, I've embraced the spotlight as Miss Sucre, making it to 
 
 As the proud founder of Miss Factorial Academy, I am deeply passionate about transforming AI and data education into an engaging journey. In a world where data fluency has become as indispensable as literacy, my goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, I steer Miss Factorial Academy towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
 
-
+---
 
 
 
