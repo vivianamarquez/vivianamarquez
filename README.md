@@ -1,5 +1,4 @@
 **Hi! ¡Hola!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **Oi! Salut !**
----
 
 Meet Viviana, a distinguished data scientist, lecturer, and the dynamic force behind Miss Factorial Academy. She holds a Master's degree in Data Science from the University of San Francisco and brings over a decade of coding experience along with a rich background in mathematics. Viviana has applied her expertise in data science to diverse sectors, including advertising, marketing, retail, and cybersecurity, working for industry leaders such as Dataminr and HBO Latin America developing cutting-edge AI and machine learning solutions.
 
@@ -9,14 +8,7 @@ Viviana has taught over 1,300 students globally, across various educational leve
 
 Languages: English, Spanish, Portuguese, and intermediate French.
 
----
-
-### 🚀 Miss Factorial Academy 
-
-[Website](missfactorial.com)
-
----
-
+### 🚀 Miss Factorial Academy [Website](missfactorial.com)
 
 
 <!-- About Section -->
