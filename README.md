@@ -1,20 +1,19 @@
-**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana Márquez**
-
+**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> 
 ---
 
-### ✨ About Me
+Meet Viviana, a distinguished data scientist, lecturer, and the dynamic force behind Miss Factorial Academy. She holds a Master's degree in Data Science from the University of San Francisco and brings over a decade of coding experience along with a rich background in mathematics. Viviana has applied her expertise in data science to diverse sectors, including advertising, marketing, retail, and cybersecurity, working for industry leaders such as Dataminr and HBO Latin America developing cutting-edge AI and machine learning solutions.
 
-I'm a multifaceted professional with a fervor for data science, education, and empowerment. With over 10 years of coding experience, I've navigated through various sectors, leveraging data to drive innovation in advertising, marketing, retail, and cybersecurity. 
+Additionally, Viviana possesses strong communication skills, developed through her degree in Media Production and her experience as a TV and radio host in different countries. This combination of formal education and hands-on experience enables her to make complex technical topics clear and engaging for everyone.
 
-As an educator, I've had the honor of guiding over 1,300 students across the globe in mastering AI and data skills. My passion for knowledge-sharing stems from a simple yet profound belief: understanding technology in the modern age is as essential as literacy in times gone by.
+Viviana has taught over 1,300 students globally, across various educational levels. She is known for her unique teaching methods and her commitment to making technical subjects not just understandable but genuinely fun. Her engaging teaching style has earned her the admiration and love of her students, who often praise her ability to make lectures an exciting and lively experience.
 
-Outside the tech realm, I've embraced the spotlight as Miss Sucre, making it to the top 13 at Miss Universe Colombia 2021, and I've connected with diverse audiences as a Radio and TV host in multiple countries.
+Languages: English, Spanish, Portuguese, and intermediate French.
 
 ---
 
 ### 🚀 Miss Factorial Academy 
 
-As the proud founder of Miss Factorial Academy, I am deeply passionate about transforming AI and data education into an engaging journey. In a world where data fluency has become as indispensable as literacy, my goal is to unlock the power of science and technology for all, transcending profession, socioeconomic status, cultural background, or educational level. Guided by the belief that learning should be as exciting as the most captivating episodes of your favorite series, I steer Miss Factorial Academy towards a future where every lesson is an adventure, every concept a discovery, and every student a story of success waiting to unfold.
+[Website](missfactorial.com)
 
 ---
 
