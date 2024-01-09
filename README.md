@@ -1,14 +1,33 @@
-**Hi! ¡Hola!** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **Oi! Salut !**
+**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana, a data and AI instructor!**
 
-Meet Viviana, a distinguished data scientist, lecturer, and the dynamic force behind Miss Factorial Academy. She holds a Master's degree in Data Science from the University of San Francisco and brings over a decade of coding experience along with a rich background in mathematics. Viviana has applied her expertise in data science to diverse sectors, including advertising, marketing, retail, and cybersecurity, working for industry leaders such as Dataminr and HBO Latin America developing cutting-edge AI and machine learning solutions.
+#### 👩‍🏫 Passionate Teacher:
+• Taught over 1,300 students worldwide.
+• Known for making complex topics fun and engaging!
+• Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.
+• Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.
+• I teach in English, Spanish, or Portuguese; I also respond to questions in French.
 
-Additionally, Viviana possesses strong communication skills, developed through her degree in Media Production and her experience as a TV and radio host in different countries. This combination of formal education and hands-on experience enables her to make complex technical topics clear and engaging for everyone.
+#### 🚀 Data scientist:
+• Five years of experience with industry leaders creating AI and ML solutions in advertising, marketing, retail, streaming services, and cybersecurity.
+• Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.
 
-Viviana has taught over 1,300 students globally, across various educational levels. She is known for her unique teaching methods and her commitment to making technical subjects not just understandable but genuinely fun. Her engaging teaching style has earned her the admiration and love of her students, who often praise her ability to make lectures an exciting and lively experience.
+#### 💻 Currently:
+• Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0 and 10.0).
+• Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.
+
+#### 🎓 Education:
+• Master's in Data Science from the University of San Francisco.
+• Bachelor's degree in Mathematics and Associate's degree in Media Production.
+• Been coding for over ten years!
+
+#### 💅 Outside of tech: 
+• Experience as a TV and radio host in different countries.
+• Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.
+• Been to 22 countries and counting!
 
 Languages: English, Spanish, Portuguese, and intermediate French.
 
-## 🚀🚀🚀 Miss Factorial Academy [Website](https://missfactorial.com) 🚀🚀🚀 
+# Learn data and AI with me!: 🚀 Miss Factorial Academy [Website](https://missfactorial.com)
 
 
 <!-- About Section -->
