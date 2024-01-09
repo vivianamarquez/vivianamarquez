@@ -27,6 +27,10 @@
 
 # Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
 
+<b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b><br>
+  <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+    <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
+
 
 <!-- About Section -->
 
