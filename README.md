@@ -27,12 +27,11 @@
 
 # Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
 
+#### 💬 Let's get in touch!
 <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b><br>
-  <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
 
-
-<!-- About Section -->
 
 <!-- Tech Stack -->  
 <details>
@@ -48,16 +47,6 @@
 **Visualization Tools** | <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=60688D&logo=Tableau&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=404f76&logo=plotly&logoColor=a4a4bb'> <img src='https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=gray'>      
 **Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=VIM&color=019733&logo=vim&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
   </p>
-</details>
-
-
-<!-- Contact -->
-<details>
-  <summary><b>💬 Let's get in touch!</b></summary>
-  
-  <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b><br>
-  <a href="https://www.linkedin.com/in/vivianamarquez"><img src="https://img.shields.io/badge/-Viviana_Márquez-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://medium.com/@vivianamarquez"><img src="https://img.shields.io/badge/-vivianamarquez-000000?style=flat&logo=Medium&logoColor=white" /></a>
 </details>
 
 
