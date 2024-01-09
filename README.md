@@ -25,7 +25,7 @@
 - Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.
 - Been to 22 countries and counting!
 
-# Learn data and AI with me!: 🚀 Miss Factorial Academy [Website](https://missfactorial.com)
+# Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
 
 
 <!-- About Section -->
