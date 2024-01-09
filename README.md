@@ -24,7 +24,6 @@
 - Experience as a TV and radio host in different countries.
 - Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.
 - Been to 22 countries and counting!
-- Languages: English, Spanish, Portuguese, and intermediate French.
 
 # Learn data and AI with me!: 🚀 Miss Factorial Academy [Website](https://missfactorial.com)
 
