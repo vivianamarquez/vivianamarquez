@@ -13,28 +13,36 @@
 
 <details>  
 <summary><b>🚀 Data scientist</b></summary>
-- Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.
-- Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.
+    <ul>
+<li>Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.</li>
+<li>Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.</li>
+        </ul>
 </details>
 
 <details>  
 <summary><b>💻 Currently</b></summary>
-- Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0 and 10.0), Data Science 4 All programs, and corporate trainings (HarbourVest, Point72, Johnson&Johnson, Universal Music Group, among others).
-- Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.
+    <ul>
+<li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0, 10.0, and 11.0), Data Science 4 All Career Accelerators, and corporate trainings (HarbourVest, Point72, Johnson&Johnson, Universal Music Group, among others).</li>
+<li>Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.</li>
+    </ul>
 </details>
 
 <details>
 <summary><b>🎓 Education</b> </summary>
-- Master's in Data Science from the University of San Francisco.
-- Bachelor's degree in Mathematics and Associate's degree in Media Production.
-- Been coding for over ten years!
+    <ul>
+<li>Master's in Data Science from the University of San Francisco.</li>
+<li>Bachelor's degree in Mathematics and Associate's degree in Media Production.</li>
+<li>Been coding for over ten years!</li>
+        </ul>
 </details>
 
 <details>
 <summary><b>💅 Outside of tech</b></summary>
-- Experience as a TV and radio host in different countries.
-- Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.
-- Been to 23 countries and counting!
+<ul>
+<li>Experience as a TV and radio host in the USA, Colombia, and Dominican Republic.</li>
+<li>Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.</li>
+<li>Been to 23 countries and counting!</li>
+    </ul>
 </details>
 
 <hr>
