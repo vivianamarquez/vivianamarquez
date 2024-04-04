@@ -39,7 +39,7 @@
 
 #### 💬 Let's get in touch!
 <b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
-<br>
+<br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
 <hr>
 <!-- Tech Stack -->  
