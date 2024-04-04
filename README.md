@@ -51,6 +51,7 @@
 <details>
   
 <summary>
+ 
   #### 💅 Outside of tech
 </summary>
 - Experience as a TV and radio host in different countries.
@@ -68,8 +69,7 @@
 
 
 <!-- Tech Stack -->  
-<details>
-  <summary><b>🛠️ Tech Stack</b></summary>
+<b>🛠️ Tech Stack</b>
     <p>
 
 | **Category** | **Technologies** |
@@ -81,7 +81,7 @@
 **Visualization Tools** | <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=60688D&logo=Tableau&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=404f76&logo=plotly&logoColor=a4a4bb'> <img src='https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=gray'>      
 **Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=VIM&color=019733&logo=vim&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
   </p>
-</details>
+
 
 
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
