@@ -2,11 +2,13 @@
 
 <details>
 <summary><b>👩‍🏫 Passionate Teacher</b></summary>
-- Taught over 2,100 students worldwide.
--  Known for making complex topics fun and engaging!
--  Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.
--  Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.
--  I teach in English, Spanish, or Portuguese; I also respond to questions in French.
+    <ul>
+<li>Taught over 2,100 students worldwide.</li>
+<li>Known for making complex topics fun and engaging!</li>
+<li>Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.</li>
+<li>Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.</li>
+<li>I teach in English, Spanish, or Portuguese; I also respond to questions in French.</li>
+        </ul>
 </details>
 
 <details>  
