@@ -2,7 +2,10 @@
 
 <details>
   
-<summary>#### 👩‍🏫 Passionate Teacher:</summary>
+<summary>
+  
+  #### 👩‍🏫 Passionate Teacher:
+</summary>
 - Taught over 2,100 students worldwide.
 -  Known for making complex topics fun and engaging!
 -  Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.
