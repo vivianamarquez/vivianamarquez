@@ -39,7 +39,7 @@
 
 #### 💬 Let's get in touch!
 <b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
-
+<hr>
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
     <p>
