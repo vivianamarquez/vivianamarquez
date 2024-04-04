@@ -39,6 +39,8 @@
 
 #### 💬 Let's get in touch!
 <b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
+<br>
+![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
 <hr>
 <!-- Tech Stack -->  
 <b>🛠️ Tech Stack</b>
@@ -53,10 +55,6 @@
 **Visualization Tools** | <img src='https://img.shields.io/static/v1?label=&message=Tableau&color=60688D&logo=Tableau&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LookerStudio&color=4484f3&logo=Looker&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Plotly&color=404f76&logo=plotly&logoColor=a4a4bb'> <img src='https://img.shields.io/static/v1?label=&message=Power%20BI&color=F2C811&logo=powerbi&logoColor=gray'>      
 **Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=SQL&color=004F9F&logo=postgresql&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=VIM&color=019733&logo=vim&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
   </p>
-
-<hr>
-
-![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) ![](https://img.shields.io/github/followers/vivianamarquez.svg?style=social&label=Follow)
 
 <hr>
 
