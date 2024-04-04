@@ -58,4 +58,4 @@
 
 <hr>
 
-# Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
+# Learn Data & AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
