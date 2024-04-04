@@ -1,29 +1,49 @@
 **Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana, a data and AI instructor!**
 
-#### 👩‍🏫 Passionate Teacher:
+<details>
+  
+<summary>#### 👩‍🏫 Passionate Teacher:</summary>
 - Taught over 2,100 students worldwide.
 -  Known for making complex topics fun and engaging!
 -  Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.
 -  Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.
 -  I teach in English, Spanish, or Portuguese; I also respond to questions in French.
+-  
+</details>
 
-#### 🚀 Data scientist:
-- Five years of experience with industry leaders creating AI and ML solutions in advertising, marketing, retail, streaming services, and cybersecurity.
+<details>
+  
+<summary>#### 🚀 Data scientist:</summary>
+- Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.
 - Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.
 
-#### 💻 Currently:
+</details>
+
+<details>
+  
+<summary>#### 💻 Currently:</summary>
 - Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0 and 10.0), Data Science 4 All programs, and corporate trainings (HarbourVest, Point72, Johnson&Johnson, Universal Music Group, among others).
 - Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.
 
-#### 🎓 Education:
+</details>
+
+<details>
+  
+<summary>#### 🎓 Education:</summary>
 - Master's in Data Science from the University of San Francisco.
 - Bachelor's degree in Mathematics and Associate's degree in Media Production.
 - Been coding for over ten years!
 
-#### 💅 Outside of tech: 
+</details>
+
+<details>
+  
+<summary>#### 💅 Outside of tech:</summary>
 - Experience as a TV and radio host in different countries.
 - Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.
 - Been to 23 countries and counting!
+
+</details>
 
 # Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
 
