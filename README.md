@@ -40,7 +40,7 @@
 <summary>💅 Outside of tech</summary>
 <ul>
 <li>Experience as a TV and radio host in the USA, Colombia, and the Dominican Republic.</li>
-<li>Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.</li>
+<li>Participated as Miss Sucre at the Miss Universe Colombia 2021 pageant and placed in the top 13.</li>
 <li>Been to 23 countries and counting!</li>
     </ul>
 </details>
