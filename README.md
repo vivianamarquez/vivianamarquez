@@ -36,9 +36,7 @@
 </details>
 
 <hr>
-    
 # Learn data and AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
-
 <hr>
 
 #### 💬 Let's get in touch!
