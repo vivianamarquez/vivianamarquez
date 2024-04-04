@@ -1,7 +1,7 @@
 **Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana, a data and AI instructor!**
 
 <details>
-<summary><b>👩‍🏫 Passionate Teacher</b></summary>
+<summary>👩‍🏫 Passionate Teacher</summary>
     <ul>
 <li>Taught over 2,100 students worldwide.</li>
 <li>Known for making complex topics fun and engaging!</li>
@@ -12,7 +12,7 @@
 </details>
 
 <details>  
-<summary><b>🚀 Data scientist</b></summary>
+<summary>🚀 Data scientist</summary>
     <ul>
 <li>Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.</li>
 <li>Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.</li>
@@ -20,7 +20,7 @@
 </details>
 
 <details>  
-<summary><b>💻 Currently</b></summary>
+<summary>💻 Currently</summary>
     <ul>
 <li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0, 10.0, and 11.0), Data Science 4 All Career Accelerator, and corporate trainings (HarbourVest, Point72, Johnson&Johnson, Universal Music Group, among others).</li>
 <li>Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.</li>
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-<summary><b>🎓 Education</b> </summary>
+<summary>🎓 Education </summary>
     <ul>
 <li>Master's in Data Science from the University of San Francisco.</li>
 <li>Bachelor's degree in Mathematics and Associate's degree in Media Production.</li>
@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><b>💅 Outside of tech</b></summary>
+<summary>💅 Outside of tech</summary>
 <ul>
 <li>Experience as a TV and radio host in the USA, Colombia, and Dominican Republic.</li>
 <li>Participated as Miss Sucre in the Miss Universe Colombia 2021 pageant.</li>
