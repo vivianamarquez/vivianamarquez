@@ -14,7 +14,8 @@
 <details>  
 <summary>🚀 Data scientist</summary>
     <ul>
-<li>Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.</li>
+<li>Data Scientist with expertise in automated solutions and web scraping, skilled in converting complex data into actionable insights and compelling visualizations.</li>
+    <li>Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.</li>
 <li>Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.</li>
         </ul>
 </details>
