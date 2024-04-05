@@ -14,14 +14,14 @@
 <details>  
 <summary>🚀 Data scientist</summary>
     <ul>
-<li>Data Scientist with expertise in automated solutions and web scraping, skilled in converting complex data into actionable insights and compelling visualizations.</li>
-    <li>Five years of experience with industry leaders creating AI and ML solutions in marketing, retail, enterntainment, and cybersecurity.</li>
-<li>Started my own business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023.</li>
-        </ul>
+    <li>Over five years of data science experience with leading organizations, delivering AI and ML results in marketing, retail, entertainment, and cybersecurity.</li>
+    <li>Expert in automated solutions and web scraping to transform complex data into actionable insights and engaging visualizations.</li>
+    <li>Launched my own data science consulting business in 2020, officially registered in Florida in 2021, and made it my full-time job in 2023. Want to leverage the power of data to drive your business forward? Let's connect!</li>
+    </ul>
 </details>
 
 <details>  
-<summary>💻 Currently</summary>
+<summary>💻 Currently teaching</summary>
     <ul>
 <li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (versions 9.0, 10.0, and 11.0), Data Science 4 All Career Accelerator, and corporate trainings (HarbourVest, Point72, Johnson&Johnson, Universal Music Group, among others).</li>
 <li>Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.</li>
