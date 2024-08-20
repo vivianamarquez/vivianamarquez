@@ -3,7 +3,7 @@
 <details>
 <summary>👩‍🏫 Passionate Teacher</summary>
     <ul>
-<li>Taught over 2,700 students worldwide.</li>
+<li>Taught over 2,700 students worldwide, including the USA, UK, Canada, Colombia, Burundi, Spain, France, Germany, and more.</li>
 <li>Known for making complex topics fun and engaging!</li>
 <li>Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.</li>
 <li>Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.</li>
@@ -25,6 +25,7 @@
     <ul>
 <li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (11.0 and 12.0) across the United States, Canada, Spain, France, and Germany.</li>
 <li>Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.</li>
+        <li>Profesora de la cátedra internacional de Inteligencia Artificial en la Unicomfacauca en Popayán, Colombia.</li>
     </ul>
 </details>
 
