@@ -3,7 +3,7 @@
 <details>
 <summary>👩‍🏫 Passionate Teacher</summary>
     <ul>
-<li>Taught over 2,700 students worldwide, including the USA, UK, Canada, Colombia, Burundi, Spain, France, Germany, and more.</li>
+<li>Taught over 3,000 students worldwide, including the USA, UK, Canada, Colombia, Burundi, Spain, France, Germany, and more.</li>
 <li>Known for making complex topics fun and engaging!</li>
 <li>Courses include AI, Machine Learning, Deep Learning, Data Science, Data Analytics, Data Literacy, Data Storytelling, and Data Visualization.</li>
 <li>Levels: Master’s Level, Undergraduate, Bootcamps, Professional Certificates, Private Tutoring, Corporate Reskilling/Upskilling.</li>
