@@ -23,9 +23,8 @@
 <details>  
 <summary>💻 Currently teaching</summary>
     <ul>
-<li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program (11.0 and 12.0).</li>
+<li>Lead Instructor at Correlation One for the Amazon Career Choice Data Analytics program.</li>
 <li>Learning Facilitator at Emeritus for the Imperial College Business School and UC Berkeley Haas's Professional Certificate in Machine Learning and Artificial Intelligence.</li>
-        <li>Profesora de la cátedra internacional de Inteligencia Artificial en la Unicomfacauca en Popayán, Colombia.</li>
     </ul>
 </details>
 
@@ -43,7 +42,7 @@
 <ul>
 <li>Experience as a TV and radio host in the USA, Colombia, and the Dominican Republic.</li>
 <li>Participated as Miss Sucre at the Miss Universe Colombia 2021 pageant and placed in the top 13.</li>
-<li>Been to 26 countries and counting!</li>
+<li>Been to 29 countries and counting!</li>
     </ul>
 </details>
 
