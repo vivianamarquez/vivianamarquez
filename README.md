@@ -1,4 +1,9 @@
-**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana, a data and AI instructor!**
+# AI Consultancy Meets Education: 🚀 [Miss Factorial Academy](https://missfactorial.com)
+Equipping teams to integrate AI solutions and make data-driven decisions through tailored, hands-on training built around your business goals.
+
+<hr> 
+
+**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana,Founder, AI Consultant & Educator @ [Miss Factorial Academy](https://missfactorial.com)**
 
 <details>
 <summary>👩‍🏫 Passionate Teacher</summary>
@@ -67,6 +72,5 @@
 **Miscellaneous** | <img src='https://img.shields.io/static/v1?label=&message=Git&color=F05032&logo=git&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=VIM&color=019733&logo=vim&logoColor=white'> <img src='https://img.shields.io/static/v1?label=&message=LaTeX&color=008080&logo=LaTeX&logoColor=white'>
   </p>
 
-<hr>
 
-# Learn Data & AI with me!: 🚀 [Miss Factorial Academy](https://missfactorial.com)
+
