@@ -1,9 +1,5 @@
-# AI Consultancy Meets Education: 🚀 [Miss Factorial Academy](https://missfactorial.com)
-Equipping teams to integrate AI solutions and make data-driven decisions through tailored, hands-on training built around your business goals.
-
-<hr> 
-
-**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana—Founder, AI Consultant & Educator @ [Miss Factorial Academy](https://missfactorial.com)**
+**Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> **I'm Viviana! AI Community Lead 
+@Prolific and Data Scientist & Instructor to 4,000+ worldwide @missfactorial **
 
 <details>
 <summary>👩‍🏫 Passionate Teacher</summary>
