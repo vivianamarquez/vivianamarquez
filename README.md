@@ -15,7 +15,7 @@
 <details>  
 <summary>🚀 Data scientist</summary>
     <ul>
-    <li>Over five years of data science experience with leading US organizations, delivering AI and ML results in marketing, retail, entertainment, and cybersecurity.</li>
+    <li>Over seven years of data science experience with leading US organizations, delivering AI and ML results in marketing, retail, entertainment, and cybersecurity.</li>
     <li>Expert in automated solutions and web scraping to transform complex data into actionable insights and engaging visualizations.</li>
 </details>
 
