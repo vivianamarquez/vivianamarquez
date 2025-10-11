@@ -1,5 +1,5 @@
 **Hi! ¡Hola! Oi! Salut !** <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> I'm Viviana! AI Community Lead 
-@Prolific and Data Scientist & Instructor to 4,000+ worldwide @missfactorial
+@prolific and Data Scientist & Instructor to 4,000+ worldwide @missfactorial
 
 <details>
 <summary>👩‍🏫 Passionate Teacher</summary>
