@@ -40,7 +40,7 @@
 <hr>
 
 #### 💬 Let's get in touch!
-<b><a href='https://drive.google.com/file/d/1QcdbdrcvXM1ja5fn9QQsh6u5cHF5hE1M/view' target='_blank'>About Me</a></b> | <b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
+<b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) 
 
