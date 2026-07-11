@@ -5,7 +5,7 @@
 </div>
 
 💬 Let's get in touch! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="29" alt="hi"> 
-<b><a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a></b> | <b><a href='https://drive.google.com/file/d/1QgwBhK_-UvXeh6Eh6zUdyWZLMGvwo-Ip/view' target='_blank'>Resume</a></b> | <b><a href='https://vivianamarquez.com' target='_blank'>Website</a></b>
+<a href='https://www.linkedin.com/in/vivianamarquez' target='_blank'>LinkedIn</a>
 <br><br>
 ![](https://komarev.com/ghpvc/?username=vivianamarquez&style=flat&color=CB62B2) 
 
