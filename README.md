@@ -4,7 +4,7 @@
 
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Hero&pause=1000&color=CB62B2&cursor=true&cursorColor=CB62B2&center=true&vCenter=true&width=435&lines=Developer+Relations+Engineer;Machine+Learning+Engineer;AI+Instructor;Speaker;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=New+Hero&pause=1000&color=CB62B2&cursor=true&cursorColor=CB62B2&center=true&vCenter=true&width=435&lines=Developer+Relations+Engineer;AI+Engineer;AI+Instructor)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,19 +19,12 @@
         </ul>
 </details>
 
-<details>  
-<summary>🚀 Data scientist</summary>
-    <ul>
-    <li>Over seven years of data science experience with leading US organizations, delivering AI and ML results in marketing, retail, entertainment, and cybersecurity.</li>
-    <li>Expert in automated solutions and web scraping to transform complex data into actionable insights and engaging visualizations.</li>
-</details>
-
 <details>
 <summary>🎓 Education </summary>
     <ul>
 <li>Master's in Data Science from the University of San Francisco.</li>
 <li>Bachelor's degree in Mathematics and Associate's degree in Media Production.</li>
-<li>Been coding for over ten years!</li>
+<li>Been coding since 2013!</li>
         </ul>
 </details>
 
